@@ -8,6 +8,10 @@
     "express": "^4.17.1"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org:alxtsg/joi-demo.git"
+  },
   "scripts": {
     "start": "node index.js"
   },
