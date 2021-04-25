@@ -4,6 +4,8 @@
 
 Demonstrates the usage of [joi](https://github.com/hapijs/joi).
 
+**This project is no longer being maintained.**
+
 ## Requirements
 
 * Node.js
